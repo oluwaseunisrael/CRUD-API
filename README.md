@@ -47,3 +47,4 @@ on what happened and why — this is the in-memory-vs-database lesson.]
 [Your own prompt, run independently in a fresh chat, the AI's code kept in
 ai-version/, and your three-point comparison — what it did better, what it
 got wrong, what your prompt forgot to specify.]
+"# Connecting-to-the-database" 
